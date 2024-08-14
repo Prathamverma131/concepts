@@ -34,13 +34,6 @@ The DOM's tree structure consists of parent-child relationships. For example, th
     <h1>Hello, World!</h1>
     <p>This is a paragraph.</p>
   </body>
-</html> ```
+</html>```
 
-```Document
-└── html
-    ├── head
-    │   └── title
-    └── body
-        ├── h1
-        └── p```
 
